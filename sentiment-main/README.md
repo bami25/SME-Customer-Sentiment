@@ -1,8 +1,3 @@
-## Project Overview
-The project aims to see how S.M.E.s in Africa can leverage consistent language patterns observed in positive or neutral customer reviews to enhance their customer experience and align their offerings with customer expectations. By analyzing data from customer reviews across various sectors, the insights can be used to help S.M.E.s and women led businesses identify opportunities for improvement, strengthen their brand perception, and ultimately drive customer satisfaction and loyalty in the African market. 
-
-Dataset Accessible here [Dataset](https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset)
-
 ### Project Setup Instructions
 
 - Create a Virtual Environment using either Venv/ Conda
@@ -42,8 +37,3 @@ Dataset Accessible here [Dataset](https://www.kaggle.com/datasets/niraliivaghani
   - Download the Updated Reviews( e.g `Flipkart_updated_reviews_2019_11_01.csv`) and store them Locally.
   - Upload the Updated Reviews to Business Recommendations Page to get actionable recommendations from `gpt3.5-turbo` model and ask follow-up questions.
   - Upload the Updated Reviews to Data Insights to generate Insights such as Product Vs Sentiment, Distribution of sentiments across the year etc.
-
-     
-Other Contributors 
-John Thuo,
-Clare Kanja
